@@ -98,8 +98,15 @@ html{
     text-align: center;
     padding: 10px;
     background-color:#ded8d8;
+    gap: 20px;
+}
+.contact1{
+    text-align: center;
+    padding: 10px;
+    background-color:#ded8d8;
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 .contact1 img{
     width: 200px;
@@ -113,3 +120,24 @@ html{
     flex-direction: column;
     justify-content: center;
 }
+.homework{
+    text-align: center;
+    padding: 10px;
+    background-color:#ded8d8;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.homework img{
+    width: 200px;
+    height:200px ;
+    object-fit: cover;
+    object-position:center;
+    border-radius: 10%;
+}
+.homework1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
